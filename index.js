@@ -9,6 +9,15 @@ let dishesArray = [
         Dish: "Qorma",
         ingredients: ["Chicken", "onion", "mint"]
     },
+    {
+        Dish: "Custard",
+        ingredients: ["milk", "powder", "fruits"]
+    },
+    {
+        Dish: "French Fries",
+        ingredients: ["potato", "flour", "oil"]
+    }
+
 ]
 
 inputIngredients = prompt("Enter Your Ingredients")
